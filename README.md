@@ -4,52 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-
-css
-Copy code
-h1,
-h2,
-h3,
-h4,
-h5 {
-  font-weight: bold;
-  margin-top: 0;
-}
-
-p {
-  margin: 0 0 1.5em 0;
-}
-
-code {
-  font-family: monospace;
-  background-color: #f5f5f5;
-  padding: 0.25em;
-}
-
-.container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 2em;
-  background-color: #fff;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-.btn {
-  display: inline-block;
-  padding: 0.5em 1em;
-  background-color: #007bff;
-  color: #fff;
-  text-decoration: none;
-  border-radius: 5px;
-  transition: background-color 0.3s;
-}
-
-.btn:hover {
-  background-color: #0069d9;
-}
-  </style>
 </head>
 <body>
   <div class="container">
