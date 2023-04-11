@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Projeto de Automatização de Cadastros de Produtos no Totvs com RPA, PyAutoGUI e OpenCV</title>
+
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -76,5 +76,4 @@ Copy code
 <p>O script inicia com a abertura do sistema Totvs e navega até a tela de cadastro de produtos. Em seguida, utiliza a biblioteca PyAutoGUI para preencher os campos necessários, como código, descrição, unidade de medida, entre outros. A integração com OpenCV é utilizada para identificar os campos na tela e garantir que a automação seja realizada corretamente, mesmo em diferentes resoluções de tela ou configurações do sistema.</p>
 <p>Ao finalizar o preenchimento dos campos, o script salva o cadastro e retorna à tela inicial do sistema.</p>
 
-<h2>Como Utilizar</h2>
 <ol>
