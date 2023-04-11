@@ -4,13 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      color: #333;
-      background-color: #f9f9f9;
-      line-height: 1.5;
-    }
+
 css
 Copy code
 h1,
