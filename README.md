@@ -1,15 +1,3 @@
-# Automatizacao_Totvs
-Projeto de automatização de projeto de cadastro de produto com pyautogui 
-
-A automação de processos é uma tendência crescente em diversos setores da economia. Através da utilização de softwares de RPA (Robotic Process Automation), 
-é possível automatizar tarefas repetitivas e aumentar a eficiência e produtividade de uma organização. Nesse sentido, 
-a linguagem de programação Python se destaca pela sua versatilidade e pela grande quantidade de bibliotecas disponíveis para diferentes aplicações. 
-Uma dessas bibliotecas é a PyAutoGUI, que permite a automação de tarefas de forma simples e eficiente. Além disso, a integração com o OpenCV, 
-uma biblioteca de visão computacional, possibilita o desenvolvimento de projetos ainda mais sofisticados. Neste contexto,
-um projeto de automatização utilizando RPA em Python, com a biblioteca PyAutoGUI e integração com OpenCV, pode ser uma solução eficiente para automatizar tarefas repetitivas
-
-Esse projeto tem como finalidade
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
