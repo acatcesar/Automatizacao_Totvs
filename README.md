@@ -9,8 +9,7 @@
   <div class="container">
     <h1>Projeto de Automatização de Cadastros de Produtos no Totvs com RPA, PyAutoGUI e OpenCV</h1>
     <p>Este é um projeto de automação de processos para realizar o cadastro de produtos no sistema Totvs. A solução foi desenvolvida utilizando a linguagem de programação Python, a biblioteca PyAutoGUI e a integração com OpenCV para identificação de elementos na tela.</p>
-css
-Copy code
+
 <h2>Requisitos</h2>
 <ul>
   <li>Python 3.7 ou superior</li>
