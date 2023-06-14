@@ -1,8 +1,8 @@
-import pyautogui
+
 import subprocess
 import time
 import pandas as pd
-
+import pyautogui
 
 pyautogui.FAILSAFE = True
 
@@ -25,7 +25,7 @@ encontrou = encontrar_imagem("totvsaberto.png")
 #Fazer Login
 encontrou= encontrar_imagem(("senha2.png"))
 pyautogui.click(pyautogui.center(encontrou))
-pyautogui.write("Seta#1111")
+pyautogui.write("")
 encontrou = encontrar_imagem(("Entrar.png"))
 pyautogui.click(pyautogui.center(encontrou))
 
